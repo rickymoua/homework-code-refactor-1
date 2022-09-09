@@ -8,7 +8,7 @@ Understanding the content and purpose of the webpage made the revision more ackn
 - Revision of formatting 
 - Included ALT attributes.
 
-##Links
+## Links
 Deploy URL https://rickymoua.github.io/homework-code-refactor-1/
 
 
